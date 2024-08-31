@@ -1,0 +1,20 @@
+p{
+    font-size: xx-large;
+}
+img{
+    height: 400px;
+    width: 550px;
+
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(0, 255, 64);
+    color: yellow;
+    font-weight: 700;
+    font-size: 30px;
+    border: s;
+}
+p{
+    font-size: x-large;
+}
